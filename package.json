@@ -1,0 +1,23 @@
+{
+  "name": "@fxx2019/fx-cli",
+  "version": "1.0.5",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "fx": "./bin/fx.js"
+  },
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "commander": "^4.0.1",
+    "download-git-repo": "^3.0.2",
+    "handlebars": "^4.5.3",
+    "inquirer": "^7.0.1",
+    "metalsmith": "^2.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
